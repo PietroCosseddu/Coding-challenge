@@ -1,0 +1,63 @@
+body{
+  background-image: url("materialelim/background.jpg");
+  background-size: cover;
+}
+.container{
+  margin-left: 20%;
+  margin-right: 20%;
+  margin bottom: 10%;
+  background-color:rgba(0,0,0,0.5);
+  border-radius: 20px;
+}
+.text{
+  margin: 80px
+}
+img{
+  padding-top: 50px
+}
+nav{
+  text-align: center;
+}
+nav>h1{
+  color: lime;
+  font-size: 30px;
+  margin: 7px;
+}
+.button{
+  padding: 1%;
+  background-color: lime;
+  margin-bottom: 3%
+}
+main{
+  color: white;
+  padding-bottom: 50px;
+}
+.section{
+  padding-bottom: 17px;
+}
+.persona{
+  font-size: 23px
+}
+.luogo{
+  font-size: 13px;
+}
+.carica{
+  font-size: 13px;
+}
+.barramedia{
+  margin-right: 60%;
+  background-color: orange;
+  color: orange;
+
+}
+.barracarica{
+  margin-right: 20%;
+  background-color: lime;
+  color: lime;
+
+}
+.barrabassa{
+  margin-right: 80%;
+  background-color: red;
+  color: red;
+}
